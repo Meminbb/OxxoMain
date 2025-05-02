@@ -1,0 +1,420 @@
+fileFormatVersion: 2
+guid: 5ebb828b2fc853949b1f95f74bc6e16b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -686235077939750466
+    second: Npc12_0
+  - first:
+      213: -8472580520946692615
+    second: Npc12_1
+  - first:
+      213: 1724773111637633277
+    second: Npc12_2
+  - first:
+      213: -9190008000643738176
+    second: Npc12_3
+  - first:
+      213: 2340465982712056339
+    second: Npc12_4
+  - first:
+      213: -1235697994491741035
+    second: Npc12_5
+  - first:
+      213: 2716948983061137528
+    second: Npc12_6
+  - first:
+      213: -2519394894015457197
+    second: Npc12_7
+  - first:
+      213: -3508396655971633497
+    second: Npc12_8
+  - first:
+      213: 1230269257148677146
+    second: Npc12_9
+  - first:
+      213: -7424388905926328792
+    second: Npc12_10
+  - first:
+      213: 6365928542228268283
+    second: Npc12_11
+  - first:
+      213: -4623875948823471090
+    second: Npc12_12
+  - first:
+      213: -8674288702390189258
+    second: Npc12_13
+  - first:
+      213: 1974448355569805322
+    second: Npc12_14
+  - first:
+      213: 6840137437548717673
+    second: Npc12_15
+  - first:
+      213: -4299811400116073220
+    second: Npc12_16
+  - first:
+      213: -7256915135367061219
+    second: Npc12_17
+  - first:
+      213: -327856206128926861
+    second: Npc12_18
+  - first:
+      213: -3103531064550759325
+    second: Npc12_19
+  - first:
+      213: 7156126934861330513
+    second: Npc12_20
+  - first:
+      213: -1675196696292282036
+    second: Npc12_21
+  - first:
+      213: -5535120152445822308
+    second: Npc12_22
+  - first:
+      213: 532928679899518206
+    second: Npc12_23
+  - first:
+      213: -4001328696637780810
+    second: Npc12_24
+  - first:
+      213: -4331486035114054495
+    second: Npc12_25
+  - first:
+      213: 3001762347311971656
+    second: Npc12_26
+  - first:
+      213: -2519381152622726238
+    second: Npc12_27
+  - first:
+      213: -8419232269268269555
+    second: Npc12_28
+  - first:
+      213: 4749756717960077727
+    second: Npc12_29
+  - first:
+      213: 1405334271454064539
+    second: Npc12_30
+  - first:
+      213: -1215425147089962466
+    second: Npc12_31
+  - first:
+      213: 5192129242109427350
+    second: Npc12_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 6
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Npc12_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 127
+        width: 17
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb91dfa15d00a76f0800000000000000
+      internalID: -686235077939750466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc12_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 103
+        width: 17
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878c73084ba84b520800000000000000
+      internalID: 2716948983061137528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc12_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 79
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c97e8a251b4dfb0800000000000000
+      internalID: -4623875948823471090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc12_18
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 55
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f27408488337bf0800000000000000
+      internalID: -327856206128926861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc12_23
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 31
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef457009fc7556700800000000000000
+      internalID: 532928679899518206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc12_28
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 7
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0642ccabd0e82b80800000000000000
+      internalID: -8419232269268269555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6e15b8d34b9ca9e49902b83469775909
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Npc12_0: -686235077939750466
+      Npc12_1: -8472580520946692615
+      Npc12_10: -7424388905926328792
+      Npc12_11: 6365928542228268283
+      Npc12_12: -4623875948823471090
+      Npc12_13: -8674288702390189258
+      Npc12_14: 1974448355569805322
+      Npc12_15: 6840137437548717673
+      Npc12_16: -4299811400116073220
+      Npc12_17: -7256915135367061219
+      Npc12_18: -327856206128926861
+      Npc12_19: -3103531064550759325
+      Npc12_2: 1724773111637633277
+      Npc12_20: 7156126934861330513
+      Npc12_21: -1675196696292282036
+      Npc12_22: -5535120152445822308
+      Npc12_23: 532928679899518206
+      Npc12_24: -4001328696637780810
+      Npc12_25: -4331486035114054495
+      Npc12_26: 3001762347311971656
+      Npc12_27: -2519381152622726238
+      Npc12_28: -8419232269268269555
+      Npc12_29: 4749756717960077727
+      Npc12_3: -9190008000643738176
+      Npc12_30: 1405334271454064539
+      Npc12_31: -1215425147089962466
+      Npc12_32: 5192129242109427350
+      Npc12_4: 2340465982712056339
+      Npc12_5: -1235697994491741035
+      Npc12_6: 2716948983061137528
+      Npc12_7: -2519394894015457197
+      Npc12_8: -3508396655971633497
+      Npc12_9: 1230269257148677146
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

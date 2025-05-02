@@ -1,0 +1,420 @@
+fileFormatVersion: 2
+guid: ed51b36e059256d41a08de2c6daa74a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5611444342107849827
+    second: Npc18_0
+  - first:
+      213: -7594668083549223489
+    second: Npc18_1
+  - first:
+      213: -6564114021842264035
+    second: Npc18_2
+  - first:
+      213: -3241985963660085626
+    second: Npc18_3
+  - first:
+      213: 632032152822001762
+    second: Npc18_4
+  - first:
+      213: -4273798410127154433
+    second: Npc18_5
+  - first:
+      213: 3406801656658551874
+    second: Npc18_6
+  - first:
+      213: 2887983750892779702
+    second: Npc18_7
+  - first:
+      213: -8601046194827771738
+    second: Npc18_8
+  - first:
+      213: -5295128741934245058
+    second: Npc18_9
+  - first:
+      213: 3615971059529270767
+    second: Npc18_10
+  - first:
+      213: 6189871460508696352
+    second: Npc18_11
+  - first:
+      213: 7104459132916881757
+    second: Npc18_12
+  - first:
+      213: -9072505351005258317
+    second: Npc18_13
+  - first:
+      213: 4901608355092295736
+    second: Npc18_14
+  - first:
+      213: 6941497137056522935
+    second: Npc18_15
+  - first:
+      213: -6383958766378813249
+    second: Npc18_16
+  - first:
+      213: -490330414999631350
+    second: Npc18_17
+  - first:
+      213: -5339438966086455845
+    second: Npc18_18
+  - first:
+      213: 1414797081471085111
+    second: Npc18_19
+  - first:
+      213: 1801577386595049780
+    second: Npc18_20
+  - first:
+      213: 8022592181583405510
+    second: Npc18_21
+  - first:
+      213: -5314299999624837121
+    second: Npc18_22
+  - first:
+      213: -4184594614963539895
+    second: Npc18_23
+  - first:
+      213: -6454557198780805370
+    second: Npc18_24
+  - first:
+      213: 8429876855847377112
+    second: Npc18_25
+  - first:
+      213: -8283629551930355820
+    second: Npc18_26
+  - first:
+      213: -4455689739397176360
+    second: Npc18_27
+  - first:
+      213: -8641115459252258287
+    second: Npc18_28
+  - first:
+      213: 5801053166132672223
+    second: Npc18_29
+  - first:
+      213: -2756245507160481325
+    second: Npc18_30
+  - first:
+      213: 3289995042692266155
+    second: Npc18_31
+  - first:
+      213: 4135923747574537305
+    second: Npc18_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 6
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Npc18_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 127
+        width: 17
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364c63006eadfdd40800000000000000
+      internalID: 5611444342107849827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc18_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 103
+        width: 17
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb54d05cd915a9690800000000000000
+      internalID: -7594668083549223489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc18_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 79
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d595acab0fb189260800000000000000
+      internalID: 7104459132916881757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc18_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 55
+        width: 17
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd3082937cf71280800000000000000
+      internalID: -9072505351005258317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc18_21
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 31
+        width: 17
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1ea196519f55f60800000000000000
+      internalID: 8022592181583405510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Npc18_26
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 7
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f4342afc2aa0d80800000000000000
+      internalID: -8283629551930355820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8c7bbf370dee5cb4cb8826161a41e0e6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Npc18_0: 5611444342107849827
+      Npc18_1: -7594668083549223489
+      Npc18_10: 3615971059529270767
+      Npc18_11: 6189871460508696352
+      Npc18_12: 7104459132916881757
+      Npc18_13: -9072505351005258317
+      Npc18_14: 4901608355092295736
+      Npc18_15: 6941497137056522935
+      Npc18_16: -6383958766378813249
+      Npc18_17: -490330414999631350
+      Npc18_18: -5339438966086455845
+      Npc18_19: 1414797081471085111
+      Npc18_2: -6564114021842264035
+      Npc18_20: 1801577386595049780
+      Npc18_21: 8022592181583405510
+      Npc18_22: -5314299999624837121
+      Npc18_23: -4184594614963539895
+      Npc18_24: -6454557198780805370
+      Npc18_25: 8429876855847377112
+      Npc18_26: -8283629551930355820
+      Npc18_27: -4455689739397176360
+      Npc18_28: -8641115459252258287
+      Npc18_29: 5801053166132672223
+      Npc18_3: -3241985963660085626
+      Npc18_30: -2756245507160481325
+      Npc18_31: 3289995042692266155
+      Npc18_32: 4135923747574537305
+      Npc18_4: 632032152822001762
+      Npc18_5: -4273798410127154433
+      Npc18_6: 3406801656658551874
+      Npc18_7: 2887983750892779702
+      Npc18_8: -8601046194827771738
+      Npc18_9: -5295128741934245058
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

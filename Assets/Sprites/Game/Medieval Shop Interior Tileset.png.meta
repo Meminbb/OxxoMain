@@ -1,0 +1,3692 @@
+fileFormatVersion: 2
+guid: c2518f3d43859894aae3a5ef726041bb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3698872998142204666
+    second: Medieval Shop Interior Tileset_0
+  - first:
+      213: 8898213897607548210
+    second: Medieval Shop Interior Tileset_1
+  - first:
+      213: 5570538084872065785
+    second: Medieval Shop Interior Tileset_2
+  - first:
+      213: -5868085349809266151
+    second: Medieval Shop Interior Tileset_3
+  - first:
+      213: 1561361132403013593
+    second: Medieval Shop Interior Tileset_4
+  - first:
+      213: 2575437279178641119
+    second: Medieval Shop Interior Tileset_5
+  - first:
+      213: -4378320093613169180
+    second: Medieval Shop Interior Tileset_6
+  - first:
+      213: 5829578284851560906
+    second: Medieval Shop Interior Tileset_7
+  - first:
+      213: -4268199963098751347
+    second: Medieval Shop Interior Tileset_8
+  - first:
+      213: 5279979430241971546
+    second: Medieval Shop Interior Tileset_9
+  - first:
+      213: 232901819925892804
+    second: Medieval Shop Interior Tileset_10
+  - first:
+      213: 6953665974278770271
+    second: Medieval Shop Interior Tileset_11
+  - first:
+      213: 6184950981225423657
+    second: Medieval Shop Interior Tileset_12
+  - first:
+      213: 1174569084255320766
+    second: Medieval Shop Interior Tileset_13
+  - first:
+      213: 6509672280629049370
+    second: Medieval Shop Interior Tileset_14
+  - first:
+      213: -6488404822113041513
+    second: Medieval Shop Interior Tileset_15
+  - first:
+      213: -2807454423313386070
+    second: Medieval Shop Interior Tileset_16
+  - first:
+      213: -7906728960858230459
+    second: Medieval Shop Interior Tileset_17
+  - first:
+      213: -1803407023721706200
+    second: Medieval Shop Interior Tileset_18
+  - first:
+      213: 7319647682627294179
+    second: Medieval Shop Interior Tileset_19
+  - first:
+      213: 5830587990645134244
+    second: Medieval Shop Interior Tileset_20
+  - first:
+      213: -5952444490071586177
+    second: Medieval Shop Interior Tileset_21
+  - first:
+      213: 2392800827819027632
+    second: Medieval Shop Interior Tileset_22
+  - first:
+      213: 5987921383593164801
+    second: Medieval Shop Interior Tileset_23
+  - first:
+      213: 3227849611484697410
+    second: Medieval Shop Interior Tileset_24
+  - first:
+      213: -5808233292926763104
+    second: Medieval Shop Interior Tileset_25
+  - first:
+      213: -7216939543867330730
+    second: Medieval Shop Interior Tileset_26
+  - first:
+      213: 516048554602841298
+    second: Medieval Shop Interior Tileset_27
+  - first:
+      213: 7236450568896028963
+    second: Medieval Shop Interior Tileset_28
+  - first:
+      213: -2077522997066225854
+    second: Medieval Shop Interior Tileset_29
+  - first:
+      213: -4262776619777564230
+    second: Medieval Shop Interior Tileset_30
+  - first:
+      213: 4756553559760209262
+    second: Medieval Shop Interior Tileset_31
+  - first:
+      213: -1081252577693046935
+    second: Medieval Shop Interior Tileset_32
+  - first:
+      213: 2731096301763780270
+    second: Medieval Shop Interior Tileset_33
+  - first:
+      213: -1303047057517348231
+    second: Medieval Shop Interior Tileset_34
+  - first:
+      213: 343849325683599950
+    second: Medieval Shop Interior Tileset_35
+  - first:
+      213: 4582403791615606828
+    second: Medieval Shop Interior Tileset_36
+  - first:
+      213: 1398330537415212170
+    second: Medieval Shop Interior Tileset_37
+  - first:
+      213: -2717460084839746949
+    second: Medieval Shop Interior Tileset_38
+  - first:
+      213: 4546061377863441156
+    second: Medieval Shop Interior Tileset_39
+  - first:
+      213: 8931289720457254430
+    second: Medieval Shop Interior Tileset_40
+  - first:
+      213: -5863274794003281462
+    second: Medieval Shop Interior Tileset_41
+  - first:
+      213: 5152055533442531239
+    second: Medieval Shop Interior Tileset_42
+  - first:
+      213: 7395285989906652541
+    second: Medieval Shop Interior Tileset_43
+  - first:
+      213: 2763984335039967019
+    second: Medieval Shop Interior Tileset_44
+  - first:
+      213: -3275900453608220391
+    second: Medieval Shop Interior Tileset_45
+  - first:
+      213: -9163944054095248460
+    second: Medieval Shop Interior Tileset_46
+  - first:
+      213: -3273322254609682004
+    second: Medieval Shop Interior Tileset_47
+  - first:
+      213: 3540429092676211641
+    second: Medieval Shop Interior Tileset_48
+  - first:
+      213: 4906754113421816770
+    second: Medieval Shop Interior Tileset_49
+  - first:
+      213: -9005243257557740608
+    second: Medieval Shop Interior Tileset_50
+  - first:
+      213: -8971068368610146357
+    second: Medieval Shop Interior Tileset_51
+  - first:
+      213: -6712656777139806343
+    second: Medieval Shop Interior Tileset_52
+  - first:
+      213: -2715103841064237633
+    second: Medieval Shop Interior Tileset_53
+  - first:
+      213: -8278687709457036686
+    second: Medieval Shop Interior Tileset_54
+  - first:
+      213: -7255823747022236755
+    second: Medieval Shop Interior Tileset_55
+  - first:
+      213: 4359293638183903325
+    second: Medieval Shop Interior Tileset_56
+  - first:
+      213: -1596453810878375308
+    second: Medieval Shop Interior Tileset_57
+  - first:
+      213: 7589715952282206419
+    second: Medieval Shop Interior Tileset_58
+  - first:
+      213: -3954603185412956370
+    second: Medieval Shop Interior Tileset_59
+  - first:
+      213: -4420427040646145761
+    second: Medieval Shop Interior Tileset_60
+  - first:
+      213: -4164309598815882517
+    second: Medieval Shop Interior Tileset_61
+  - first:
+      213: 1912571583845686838
+    second: Medieval Shop Interior Tileset_62
+  - first:
+      213: -8757060402544250428
+    second: Medieval Shop Interior Tileset_63
+  - first:
+      213: 5019731454236610571
+    second: Medieval Shop Interior Tileset_64
+  - first:
+      213: -7756646420128856415
+    second: Medieval Shop Interior Tileset_65
+  - first:
+      213: -7607925678732423063
+    second: Medieval Shop Interior Tileset_66
+  - first:
+      213: 3475790099724880092
+    second: Medieval Shop Interior Tileset_67
+  - first:
+      213: 1179861572176319362
+    second: Medieval Shop Interior Tileset_68
+  - first:
+      213: 7953839753089482347
+    second: Medieval Shop Interior Tileset_69
+  - first:
+      213: 3188663590176901053
+    second: Medieval Shop Interior Tileset_70
+  - first:
+      213: -7280886078199860765
+    second: Medieval Shop Interior Tileset_71
+  - first:
+      213: -4905945042513168396
+    second: Medieval Shop Interior Tileset_72
+  - first:
+      213: -305991688375419422
+    second: Medieval Shop Interior Tileset_73
+  - first:
+      213: -2569726244746060447
+    second: Medieval Shop Interior Tileset_74
+  - first:
+      213: -3120860899385456020
+    second: Medieval Shop Interior Tileset_75
+  - first:
+      213: -2246272558679307930
+    second: Medieval Shop Interior Tileset_76
+  - first:
+      213: -8716789470290138487
+    second: Medieval Shop Interior Tileset_77
+  - first:
+      213: -4518271526710003837
+    second: Medieval Shop Interior Tileset_78
+  - first:
+      213: -6058408042668335663
+    second: Medieval Shop Interior Tileset_79
+  - first:
+      213: 6719370271820736288
+    second: Medieval Shop Interior Tileset_80
+  - first:
+      213: 7991621687954208797
+    second: Medieval Shop Interior Tileset_81
+  - first:
+      213: -5264652847640429220
+    second: Medieval Shop Interior Tileset_82
+  - first:
+      213: -2131567299582140042
+    second: Medieval Shop Interior Tileset_83
+  - first:
+      213: 2828966271567524476
+    second: Medieval Shop Interior Tileset_84
+  - first:
+      213: 8609475379690617949
+    second: Medieval Shop Interior Tileset_85
+  - first:
+      213: 4933545401408207149
+    second: Medieval Shop Interior Tileset_86
+  - first:
+      213: 8258310003275971996
+    second: Medieval Shop Interior Tileset_87
+  - first:
+      213: 5736901748638780039
+    second: Medieval Shop Interior Tileset_88
+  - first:
+      213: 7286350824587768836
+    second: Medieval Shop Interior Tileset_89
+  - first:
+      213: -7546852532104011968
+    second: Medieval Shop Interior Tileset_90
+  - first:
+      213: 8670597627704789554
+    second: Medieval Shop Interior Tileset_91
+  - first:
+      213: -6691965606839039307
+    second: Medieval Shop Interior Tileset_92
+  - first:
+      213: 624448574631013385
+    second: Medieval Shop Interior Tileset_93
+  - first:
+      213: -8565788885284907577
+    second: Medieval Shop Interior Tileset_94
+  - first:
+      213: 495537738666126533
+    second: Medieval Shop Interior Tileset_95
+  - first:
+      213: -2702667559704308160
+    second: Medieval Shop Interior Tileset_96
+  - first:
+      213: 4167644703812631989
+    second: Medieval Shop Interior Tileset_97
+  - first:
+      213: -2907398171627511081
+    second: Medieval Shop Interior Tileset_98
+  - first:
+      213: -5520276844367250821
+    second: Medieval Shop Interior Tileset_99
+  - first:
+      213: 5387179687816733889
+    second: Medieval Shop Interior Tileset_100
+  - first:
+      213: -6675813122581267205
+    second: Medieval Shop Interior Tileset_101
+  - first:
+      213: -7041484964415834395
+    second: Medieval Shop Interior Tileset_102
+  - first:
+      213: 2916987038251964740
+    second: Medieval Shop Interior Tileset_103
+  - first:
+      213: -4023566958794639440
+    second: Medieval Shop Interior Tileset_104
+  - first:
+      213: 7834040465790772782
+    second: Medieval Shop Interior Tileset_105
+  - first:
+      213: 3139900896453741595
+    second: Medieval Shop Interior Tileset_106
+  - first:
+      213: 4549819552404489064
+    second: Medieval Shop Interior Tileset_107
+  - first:
+      213: -2636281886810707748
+    second: Medieval Shop Interior Tileset_108
+  - first:
+      213: 6158202885144921472
+    second: Medieval Shop Interior Tileset_109
+  - first:
+      213: 8820219929103197923
+    second: Medieval Shop Interior Tileset_110
+  - first:
+      213: -166872277743443722
+    second: Medieval Shop Interior Tileset_111
+  - first:
+      213: -1536375313128591230
+    second: Medieval Shop Interior Tileset_112
+  - first:
+      213: 5591265790221827254
+    second: Medieval Shop Interior Tileset_113
+  - first:
+      213: 762046251429640394
+    second: Medieval Shop Interior Tileset_114
+  - first:
+      213: 1345018247691290647
+    second: Medieval Shop Interior Tileset_115
+  - first:
+      213: -3277215251238513349
+    second: Medieval Shop Interior Tileset_116
+  - first:
+      213: -1135366963188228712
+    second: Medieval Shop Interior Tileset_117
+  - first:
+      213: -7714743225540105437
+    second: Medieval Shop Interior Tileset_118
+  - first:
+      213: 3096210069174159212
+    second: Medieval Shop Interior Tileset_119
+  - first:
+      213: 3712965500588376383
+    second: Medieval Shop Interior Tileset_120
+  - first:
+      213: -7316675941639655843
+    second: Medieval Shop Interior Tileset_121
+  - first:
+      213: 2443733813017477356
+    second: Medieval Shop Interior Tileset_122
+  - first:
+      213: 3867994572883288255
+    second: Medieval Shop Interior Tileset_123
+  - first:
+      213: 5207065127059782233
+    second: Medieval Shop Interior Tileset_124
+  - first:
+      213: 5293572456642409654
+    second: Medieval Shop Interior Tileset_125
+  - first:
+      213: 8281728873545248834
+    second: Medieval Shop Interior Tileset_126
+  - first:
+      213: 4124347116244736545
+    second: Medieval Shop Interior Tileset_127
+  - first:
+      213: -5259642841648755260
+    second: Medieval Shop Interior Tileset_128
+  - first:
+      213: -3908288016911646601
+    second: Medieval Shop Interior Tileset_129
+  - first:
+      213: 7739191721719655260
+    second: Medieval Shop Interior Tileset_130
+  - first:
+      213: -1164322745343742687
+    second: Medieval Shop Interior Tileset_131
+  - first:
+      213: -7488494853370085344
+    second: Medieval Shop Interior Tileset_132
+  - first:
+      213: 2322418457308781858
+    second: Medieval Shop Interior Tileset_133
+  - first:
+      213: -8794434026780376675
+    second: Medieval Shop Interior Tileset_134
+  - first:
+      213: 2121371112247388231
+    second: Medieval Shop Interior Tileset_135
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 288
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ae54cb69212b040a2480db862bed11
+      internalID: -279689422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_1
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 589
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fa277bb3825f943a23849f9dd3691e
+      internalID: 1495108706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_2
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 613
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cafd35af645684eb4c9aea5ca89f74
+      internalID: 5303912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_3
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 589
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cfe0dae52a7f543909347936035dec
+      internalID: -139447412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_4
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 594
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7262adb64787deb479e6d956a43bfe88
+      internalID: -1635018610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_5
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 594
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a094ac63527f8642ab08e766255427c
+      internalID: -2079505070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_6
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 594
+        width: 128
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9694560e5714f54ab66b820a2bc2736
+      internalID: -1933018662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_7
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 594
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a133219534bf13e4ba0f877ab5323dfa
+      internalID: 674775077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 558
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1518de548092f3e4093d0df07609a2b9
+      internalID: -1635569302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_9
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 558
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e3e0e24db5d1e469f3fca2dde14ec0
+      internalID: 1912657222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_10
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 554
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ba3d78c23063e408ebb97e677dfeaa
+      internalID: -120771356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_11
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 519
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c909fb6d5a37b46ae42243786f2048
+      internalID: -1151606655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_12
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 524
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79f396aa33666e42bf62e3d42ea8ec4
+      internalID: -234502401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_13
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 522
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3561799dde03c6544b9eae79e64c0062
+      internalID: -1208949120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_14
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 515
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53bbf6113f000a4ebfb091b533964b8
+      internalID: 352720705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_15
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 515
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f950e07d185e74293c5cd3fec9f854
+      internalID: -555087009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_16
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 515
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f833f0b25c4e2114fb375c5f3984b5e1
+      internalID: 1259953966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_17
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 515
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc4760c73c321f43af3d743e0f4d165
+      internalID: 1051111476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_18
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 515
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d613eed1568886045bc7baf63334a72d
+      internalID: -1934030970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_19
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 526
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bd37d06b63e0c42a13669c7114d419
+      internalID: -1562146554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_20
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 526
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f4fece06042d748a006a8dcf929578
+      internalID: -1490911880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_21
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 495
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad51e4edadbd2aa43b0043eb273e6e59
+      internalID: 390677805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_22
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 495
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4429a7c0a46fff47b1194edeb29e14f
+      internalID: 2142023553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_23
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 496
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0bffb5b81eebc4ca57d167cd06131a
+      internalID: -152933659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_24
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 457
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca48553a302bc0e4aa32bc558b05f377
+      internalID: -291866371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_25
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 455
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86729130964faa40ac1fe373abc110a
+      internalID: -1112469969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_26
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 451
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499d959c8feaa5846b0eebc878c92b41
+      internalID: -1459659979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_27
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 451
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff11339fd4d488b46ab03d5377c2ad16
+      internalID: -2030394121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_28
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 451
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f8f2c7949748f4f8e323cacf3a1380
+      internalID: 1260075032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_29
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 451
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a67e4e09cf35c147ac2f6ed80f2a702
+      internalID: -1887113622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_30
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 451
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ed1a7579a1a1f4cb94649777e60be4
+      internalID: 937048053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_31
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 451
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c85a8f7049e76459949a85035a234d
+      internalID: 1041221969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_32
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 451
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09877c5533eed6549b57fb8d77e8764f
+      internalID: 1894023505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_33
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 352
+        width: 84
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76391d2e493809148a4ea10705b0711f
+      internalID: 1435305503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_34
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 416
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a008a3e78574ffd498dfde51e406f4c0
+      internalID: 1581918993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_35
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 416
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9a7f05a19e35d449c681c7cec6940e
+      internalID: -774538224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_36
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 416
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91b5f15acad39044b0c0b6502dee8ce
+      internalID: -1691383715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_37
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 416
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636ab2c08d4ff98468e45a8cfa4f73c7
+      internalID: 271508775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_38
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 422
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01ec3e093e442a4295262caaab7c1cf
+      internalID: -206276624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_39
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 422
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c424c37fb1f1b45a76e493bf5a43ed
+      internalID: 2123356608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_40
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 419
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22e0c18a95188445ae521cbb19a1d9f
+      internalID: 1966460657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_41
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 419
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704fccf479a232942b01bb00c1206db1
+      internalID: 12176778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_42
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 366
+        width: 22
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8642d098bcb464aabd118867eab88c
+      internalID: -1981000536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_43
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 366
+        width: 22
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fdc689f7535a94ab679d03f201b06c
+      internalID: 789965119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_44
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 419
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd63ee8af6c66124c94d43503aedd736
+      internalID: -1627182564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_45
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 432
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10872a4412af444da689b9ba3447a0c
+      internalID: 949389473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_46
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 432
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbb96ea8c9e3af4ba527e27df1a3640
+      internalID: 861511581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_47
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 353
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25553574ecc96064fa4208dfcba1bac4
+      internalID: -287262013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_48
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 387
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe9626e00424974fbcd721b90878a70
+      internalID: -914954998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_49
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 387
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6986c6a9038745c43933cdd307328f9e
+      internalID: -467789199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_50
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 387
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f161e552b44a07f4ca603281f5e79f42
+      internalID: -1571702117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_51
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 387
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11040f2a50dcac9478bf29fe3f534b89
+      internalID: 2097022592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_52
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 390
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1cf9367e1e2244595dd32ec965fd93
+      internalID: 128434053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_53
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 394
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa5c06c3908b4b4bacc3e20fe6688ce
+      internalID: 991335315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_54
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 387
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bf104c44ddc1c4390099629b9769d0
+      internalID: -166654287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_55
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 366
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391c08dbe52d6f4409b4bd5b4989f4f5
+      internalID: 1276249557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_56
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 366
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031bc7972a2b8f74db90fed87ef61cd2
+      internalID: 1479948620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_57
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 364
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209ea8cdb230dfd4ab7f1e38b81ca694
+      internalID: -1352718704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_58
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 364
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed13e81dd9668294099ca4de1b151edc
+      internalID: -1697869838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_59
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 364
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56a8301a9292d84a925023772f458a2
+      internalID: 803863838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_60
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 364
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c986bffc10aedd4fa6f2e26ac94e134
+      internalID: 2115448248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_61
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 362
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922ef1320d273104aa9ba0e36b2d7df2
+      internalID: -894901607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_62
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 362
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd60494ab177994abf6a6642de7938c
+      internalID: -1227901703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_63
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 368
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35e78f22d469d14a8defcb337960a62
+      internalID: -1089859000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_64
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 368
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2552dff5010d74ea25735513421cac
+      internalID: 1589607673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_65
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 320
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c9f0d5771fbc64a901c22456bdcbd0
+      internalID: 461217661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_66
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 331
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c175184f0cf394480634b742139f46
+      internalID: 1787365228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_67
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 334
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a35addbc805ea4b9ab1f294d76899c
+      internalID: -1367325137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_68
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 334
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3746dc503c31cbd4b9f31abb4819cb1d
+      internalID: -1626033001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_69
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 332
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f389bca0ca66645a50bb606aee812d
+      internalID: -1328656913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_70
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 330
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9767e67c9881369409b8924a3e9b646b
+      internalID: 933922143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_71
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 330
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb1ec8c9c83b974aafb6830f30b427b
+      internalID: 1756798517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_72
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 323
+        width: 66
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6a4267c0443324b81a309b98deb4f5
+      internalID: 258003237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_73
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 294
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb16dd1abd197944b35f0f1e4e844dc
+      internalID: 262092603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_74
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 336
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f186a74fe62f934aa6486beeac28787
+      internalID: 1752097636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_75
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 337
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad987405c864ac4f884e17603690530
+      internalID: -576319707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_76
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 290
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3441147d681e4746b01343bd528629c
+      internalID: -255742223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_77
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 289
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b372ce38a621444b2cc31ac36dae69
+      internalID: 1885043338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_78
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 279
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049c1cf5c80f8604dbaba97f94efc559
+      internalID: -215155548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_79
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 289
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f564f3370b8315746953cfa1888cda98
+      internalID: 972257365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_80
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 289
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d66712a86701fc4fac23690744adbe5
+      internalID: 1181954356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_81
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 289
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efb3dea14c57a447a35a67bcd00106f
+      internalID: 1219565595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_82
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 289
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c6edaa03f1889458c8c7bc7a8df72c
+      internalID: -1030818546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_83
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 298
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48356e898f20909459d7d382fa50e7ee
+      internalID: 711254426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_84
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 294
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367590fa21906a14d9c02d4edc84cf50
+      internalID: 1431932369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_85
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 259
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fce909d54bbc9e4bb5ff1682dc2f5ac
+      internalID: 385073613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_86
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 259
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da51e5976763e146bbae20fa73aacd2
+      internalID: 543068690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_87
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 257
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57f18075f4a04a4da9c4e626d9e756e
+      internalID: 382912945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_88
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 257
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c971b8bc76f28e40b7cd59973ab9f42
+      internalID: -874467564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_89
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 257
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ce53218e04ed0489f5f23388f7ab8d
+      internalID: -1249599721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_90
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 257
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d85db54d44b7274ca5d5643e31cd397
+      internalID: -514884808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_91
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 227
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2db0dc90a6b2e4ca07858539c55343
+      internalID: 578295403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_92
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 257
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80f61a5da1358f45af3e00086424639
+      internalID: 393132944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_93
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 245
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3f70cb75b816049b23e6be9bddd7f5
+      internalID: -1774411805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_94
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 245
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd89c2323b74e684783cbef534f13487
+      internalID: 1104117122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_95
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 257
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9abd8b38afb7c345b9ac5771fba6373
+      internalID: 1260051577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_96
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 259
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6c249c99c512649b8744833539d57a
+      internalID: 448271978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_97
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 259
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9523197dc59be10428021a3206a42c20
+      internalID: 1302848059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_98
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 259
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a002dc9a3c20efa4ca76c5987ea625c1
+      internalID: 1113043594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_99
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 259
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76408193259a7784b805ac7bd91c3522
+      internalID: 133359323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 225
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e88096cfdc7cf64e87595b288626abf
+      internalID: 632765611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_101
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 225
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3558507ef507e504b8eee01020cbcaff
+      internalID: 379147749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_102
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 225
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adfc13a3f7681544ab8030dae717c54
+      internalID: 1857711644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_103
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 225
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d56a98570aeab44b274a658db961b2
+      internalID: 1426435584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_104
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 225
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f87ec3eb0eba748a8189efb5b03b60
+      internalID: 666619023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_105
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 225
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e3e1941f4a4ad4d9200fb2a28d30e1
+      internalID: -1572937885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_106
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 227
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df1a631f3c0b4a4ba5f1b64974d9ad5
+      internalID: -1374921692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_107
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 227
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524fb448cfc16b74e931641d4bc0865d
+      internalID: 1354289551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_108
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 227
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d96b7f016638e8439a82b29f5ded788
+      internalID: 1202510936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_109
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 227
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd037abd1da68d489999adc2f84a6cd
+      internalID: 359624299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_110
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 195
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34faae0cee488f4db3003b649c42ea3
+      internalID: -1168977278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 96
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a699b58b5ba8fbe41b26edcdd5eb93d6
+      internalID: -1601753521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_112
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 163
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0847e50624d3664c9b74adf134f8828
+      internalID: 733720103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_113
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 163
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328a4d6b4f9724946bd5b5c76b58cc69
+      internalID: 858208667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_114
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 163
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b276e3813607d4478e00a8770a756cf
+      internalID: -343083475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_115
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 193
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9baed7eb5e1c5504a8a31c3bea95d82d
+      internalID: -2128201556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_116
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 193
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0121173d0006b439afa46423ada383
+      internalID: -537344496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_117
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 163
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92de6efa510d7ab418f3434e76e489cc
+      internalID: 258605290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_118
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 163
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf008131a31fb0d43a942f298a5d6539
+      internalID: -173538222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_119
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 128
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2d4a8ed915e0c4da3a6b58ac9e3e87
+      internalID: 33752829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_120
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 163
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8d013a01485fc4cb645086ba6f4fcd
+      internalID: 1958234814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_121
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 163
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca806bafb784dd34ea615ce9faac0015
+      internalID: -548009826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_122
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 163
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e0e23a6c04b2548b4b78b10c1cb673
+      internalID: -1926995890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_123
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 163
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50317a9fcee038f488d7347fdeced2a5
+      internalID: -1065639904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 96
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ad796ea78b68f449a6da9b7980db6c
+      internalID: -1630239965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 448
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f9a56d29804244aa2c688be59e5b54
+      internalID: 1631150442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_126
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 131
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526d90c8ca74f5345b282e37a77d1c55
+      internalID: -940620074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_127
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 131
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f092c18ab3cf84485f9c4e7cfd455b
+      internalID: -71962834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_128
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 131
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ead9a92751d864e9a22bd521af4149
+      internalID: -1091819593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_129
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 131
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedc358ff1a5aa74e9402f6006268b10
+      internalID: -1199874678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_130
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 131
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d71daad2293a2459701f7d3791b73f
+      internalID: -1021413536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_131
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 131
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52df9c74962734c409eeb89eac6f76dd
+      internalID: -638915502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_132
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 131
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f311d862255be9c4aa58b900fdd0fd8b
+      internalID: 14584260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_133
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 131
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119a437e1495bab4f9d1c478f955b2ec
+      internalID: -1869526712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_134
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354c948b48db4424782930eaec34f995
+      internalID: -259506530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval Shop Interior Tileset_135
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 128
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e931f29e304d6624e837f123f8f54e09
+      internalID: -1975785204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4e9d1e03e41ebf24b8e025e6b77ae79a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Medieval Shop Interior Tileset_0: -279689422
+      Medieval Shop Interior Tileset_1: 1495108706
+      Medieval Shop Interior Tileset_10: -120771356
+      Medieval Shop Interior Tileset_100: 632765611
+      Medieval Shop Interior Tileset_101: 379147749
+      Medieval Shop Interior Tileset_102: 1857711644
+      Medieval Shop Interior Tileset_103: 1426435584
+      Medieval Shop Interior Tileset_104: 666619023
+      Medieval Shop Interior Tileset_105: -1572937885
+      Medieval Shop Interior Tileset_106: -1374921692
+      Medieval Shop Interior Tileset_107: 1354289551
+      Medieval Shop Interior Tileset_108: 1202510936
+      Medieval Shop Interior Tileset_109: 359624299
+      Medieval Shop Interior Tileset_11: -1151606655
+      Medieval Shop Interior Tileset_110: -1168977278
+      Medieval Shop Interior Tileset_111: -1601753521
+      Medieval Shop Interior Tileset_112: 733720103
+      Medieval Shop Interior Tileset_113: 858208667
+      Medieval Shop Interior Tileset_114: -343083475
+      Medieval Shop Interior Tileset_115: -2128201556
+      Medieval Shop Interior Tileset_116: -537344496
+      Medieval Shop Interior Tileset_117: 258605290
+      Medieval Shop Interior Tileset_118: -173538222
+      Medieval Shop Interior Tileset_119: 33752829
+      Medieval Shop Interior Tileset_12: -234502401
+      Medieval Shop Interior Tileset_120: 1958234814
+      Medieval Shop Interior Tileset_121: -548009826
+      Medieval Shop Interior Tileset_122: -1926995890
+      Medieval Shop Interior Tileset_123: -1065639904
+      Medieval Shop Interior Tileset_124: -1630239965
+      Medieval Shop Interior Tileset_125: 1631150442
+      Medieval Shop Interior Tileset_126: -940620074
+      Medieval Shop Interior Tileset_127: -71962834
+      Medieval Shop Interior Tileset_128: -1091819593
+      Medieval Shop Interior Tileset_129: -1199874678
+      Medieval Shop Interior Tileset_13: -1208949120
+      Medieval Shop Interior Tileset_130: -1021413536
+      Medieval Shop Interior Tileset_131: -638915502
+      Medieval Shop Interior Tileset_132: 14584260
+      Medieval Shop Interior Tileset_133: -1869526712
+      Medieval Shop Interior Tileset_134: -259506530
+      Medieval Shop Interior Tileset_135: -1975785204
+      Medieval Shop Interior Tileset_14: 352720705
+      Medieval Shop Interior Tileset_15: -555087009
+      Medieval Shop Interior Tileset_16: 1259953966
+      Medieval Shop Interior Tileset_17: 1051111476
+      Medieval Shop Interior Tileset_18: -1934030970
+      Medieval Shop Interior Tileset_19: -1562146554
+      Medieval Shop Interior Tileset_2: 5303912
+      Medieval Shop Interior Tileset_20: -1490911880
+      Medieval Shop Interior Tileset_21: 390677805
+      Medieval Shop Interior Tileset_22: 2142023553
+      Medieval Shop Interior Tileset_23: -152933659
+      Medieval Shop Interior Tileset_24: -291866371
+      Medieval Shop Interior Tileset_25: -1112469969
+      Medieval Shop Interior Tileset_26: -1459659979
+      Medieval Shop Interior Tileset_27: -2030394121
+      Medieval Shop Interior Tileset_28: 1260075032
+      Medieval Shop Interior Tileset_29: -1887113622
+      Medieval Shop Interior Tileset_3: -139447412
+      Medieval Shop Interior Tileset_30: 937048053
+      Medieval Shop Interior Tileset_31: 1041221969
+      Medieval Shop Interior Tileset_32: 1894023505
+      Medieval Shop Interior Tileset_33: 1435305503
+      Medieval Shop Interior Tileset_34: 1581918993
+      Medieval Shop Interior Tileset_35: -774538224
+      Medieval Shop Interior Tileset_36: -1691383715
+      Medieval Shop Interior Tileset_37: 271508775
+      Medieval Shop Interior Tileset_38: -206276624
+      Medieval Shop Interior Tileset_39: 2123356608
+      Medieval Shop Interior Tileset_4: -1635018610
+      Medieval Shop Interior Tileset_40: 1966460657
+      Medieval Shop Interior Tileset_41: 12176778
+      Medieval Shop Interior Tileset_42: -1981000536
+      Medieval Shop Interior Tileset_43: 789965119
+      Medieval Shop Interior Tileset_44: -1627182564
+      Medieval Shop Interior Tileset_45: 949389473
+      Medieval Shop Interior Tileset_46: 861511581
+      Medieval Shop Interior Tileset_47: -287262013
+      Medieval Shop Interior Tileset_48: -914954998
+      Medieval Shop Interior Tileset_49: -467789199
+      Medieval Shop Interior Tileset_5: -2079505070
+      Medieval Shop Interior Tileset_50: -1571702117
+      Medieval Shop Interior Tileset_51: 2097022592
+      Medieval Shop Interior Tileset_52: 128434053
+      Medieval Shop Interior Tileset_53: 991335315
+      Medieval Shop Interior Tileset_54: -166654287
+      Medieval Shop Interior Tileset_55: 1276249557
+      Medieval Shop Interior Tileset_56: 1479948620
+      Medieval Shop Interior Tileset_57: -1352718704
+      Medieval Shop Interior Tileset_58: -1697869838
+      Medieval Shop Interior Tileset_59: 803863838
+      Medieval Shop Interior Tileset_6: -1933018662
+      Medieval Shop Interior Tileset_60: 2115448248
+      Medieval Shop Interior Tileset_61: -894901607
+      Medieval Shop Interior Tileset_62: -1227901703
+      Medieval Shop Interior Tileset_63: -1089859000
+      Medieval Shop Interior Tileset_64: 1589607673
+      Medieval Shop Interior Tileset_65: 461217661
+      Medieval Shop Interior Tileset_66: 1787365228
+      Medieval Shop Interior Tileset_67: -1367325137
+      Medieval Shop Interior Tileset_68: -1626033001
+      Medieval Shop Interior Tileset_69: -1328656913
+      Medieval Shop Interior Tileset_7: 674775077
+      Medieval Shop Interior Tileset_70: 933922143
+      Medieval Shop Interior Tileset_71: 1756798517
+      Medieval Shop Interior Tileset_72: 258003237
+      Medieval Shop Interior Tileset_73: 262092603
+      Medieval Shop Interior Tileset_74: 1752097636
+      Medieval Shop Interior Tileset_75: -576319707
+      Medieval Shop Interior Tileset_76: -255742223
+      Medieval Shop Interior Tileset_77: 1885043338
+      Medieval Shop Interior Tileset_78: -215155548
+      Medieval Shop Interior Tileset_79: 972257365
+      Medieval Shop Interior Tileset_8: -1635569302
+      Medieval Shop Interior Tileset_80: 1181954356
+      Medieval Shop Interior Tileset_81: 1219565595
+      Medieval Shop Interior Tileset_82: -1030818546
+      Medieval Shop Interior Tileset_83: 711254426
+      Medieval Shop Interior Tileset_84: 1431932369
+      Medieval Shop Interior Tileset_85: 385073613
+      Medieval Shop Interior Tileset_86: 543068690
+      Medieval Shop Interior Tileset_87: 382912945
+      Medieval Shop Interior Tileset_88: -874467564
+      Medieval Shop Interior Tileset_89: -1249599721
+      Medieval Shop Interior Tileset_9: 1912657222
+      Medieval Shop Interior Tileset_90: -514884808
+      Medieval Shop Interior Tileset_91: 578295403
+      Medieval Shop Interior Tileset_92: 393132944
+      Medieval Shop Interior Tileset_93: -1774411805
+      Medieval Shop Interior Tileset_94: 1104117122
+      Medieval Shop Interior Tileset_95: 1260051577
+      Medieval Shop Interior Tileset_96: 448271978
+      Medieval Shop Interior Tileset_97: 1302848059
+      Medieval Shop Interior Tileset_98: 1113043594
+      Medieval Shop Interior Tileset_99: 133359323
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
