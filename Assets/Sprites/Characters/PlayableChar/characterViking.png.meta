@@ -223,12 +223,12 @@ TextureImporter:
       name: characterViking_0
       rect:
         serializedVersion: 2
-        x: 248
-        y: 4678
-        width: 145
-        height: 305
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 249
+        y: 4679
+        width: 142
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -245,12 +245,12 @@ TextureImporter:
       name: characterViking_1
       rect:
         serializedVersion: 2
-        x: 248
-        y: 4038
-        width: 145
-        height: 315
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 249
+        y: 4039
+        width: 142
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -267,12 +267,12 @@ TextureImporter:
       name: characterViking_2
       rect:
         serializedVersion: 2
-        x: 258
-        y: 3398
-        width: 125
-        height: 325
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 259
+        y: 3399
+        width: 122
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -289,12 +289,12 @@ TextureImporter:
       name: characterViking_3
       rect:
         serializedVersion: 2
-        x: 258
-        y: 2758
-        width: 125
-        height: 325
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 259
+        y: 2759
+        width: 122
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -311,12 +311,12 @@ TextureImporter:
       name: characterViking_4
       rect:
         serializedVersion: 2
-        x: 238
-        y: 2108
-        width: 145
-        height: 305
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 239
+        y: 2109
+        width: 142
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -333,12 +333,12 @@ TextureImporter:
       name: characterViking_5
       rect:
         serializedVersion: 2
-        x: 878
-        y: 2108
-        width: 155
-        height: 315
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 879
+        y: 2109
+        width: 152
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -355,12 +355,12 @@ TextureImporter:
       name: characterViking_6
       rect:
         serializedVersion: 2
-        x: 1528
-        y: 2108
-        width: 155
-        height: 315
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1529
+        y: 2109
+        width: 152
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -377,12 +377,12 @@ TextureImporter:
       name: characterViking_7
       rect:
         serializedVersion: 2
-        x: 2178
-        y: 2108
-        width: 145
-        height: 305
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 2179
+        y: 2109
+        width: 142
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -399,12 +399,12 @@ TextureImporter:
       name: characterViking_8
       rect:
         serializedVersion: 2
-        x: 2808
-        y: 2108
-        width: 155
-        height: 315
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 2809
+        y: 2109
+        width: 152
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -421,12 +421,12 @@ TextureImporter:
       name: characterViking_9
       rect:
         serializedVersion: 2
-        x: 3438
-        y: 2108
-        width: 155
-        height: 315
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 3439
+        y: 2109
+        width: 152
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -443,12 +443,12 @@ TextureImporter:
       name: characterViking_10
       rect:
         serializedVersion: 2
-        x: 248
-        y: 1468
-        width: 155
-        height: 315
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 249
+        y: 1469
+        width: 152
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -465,12 +465,12 @@ TextureImporter:
       name: characterViking_11
       rect:
         serializedVersion: 2
-        x: 878
-        y: 1478
-        width: 175
-        height: 315
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 879
+        y: 1479
+        width: 172
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -487,12 +487,12 @@ TextureImporter:
       name: characterViking_12
       rect:
         serializedVersion: 2
-        x: 1508
-        y: 1478
-        width: 175
-        height: 305
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1509
+        y: 1479
+        width: 172
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -509,12 +509,12 @@ TextureImporter:
       name: characterViking_13
       rect:
         serializedVersion: 2
-        x: 2158
-        y: 1468
-        width: 155
-        height: 305
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 2159
+        y: 1469
+        width: 152
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -531,12 +531,12 @@ TextureImporter:
       name: characterViking_14
       rect:
         serializedVersion: 2
-        x: 2788
-        y: 1478
-        width: 175
-        height: 305
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 2789
+        y: 1479
+        width: 172
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -553,12 +553,12 @@ TextureImporter:
       name: characterViking_15
       rect:
         serializedVersion: 2
-        x: 3438
-        y: 1478
-        width: 175
-        height: 305
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 3439
+        y: 1479
+        width: 172
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -575,12 +575,12 @@ TextureImporter:
       name: characterViking_16
       rect:
         serializedVersion: 2
-        x: 248
-        y: 838
-        width: 145
-        height: 325
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 249
+        y: 839
+        width: 142
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -597,12 +597,12 @@ TextureImporter:
       name: characterViking_17
       rect:
         serializedVersion: 2
-        x: 898
-        y: 838
-        width: 125
-        height: 325
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 899
+        y: 839
+        width: 122
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -619,12 +619,12 @@ TextureImporter:
       name: characterViking_18
       rect:
         serializedVersion: 2
-        x: 1528
-        y: 838
-        width: 165
-        height: 315
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1529
+        y: 839
+        width: 162
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -641,12 +641,12 @@ TextureImporter:
       name: characterViking_19
       rect:
         serializedVersion: 2
-        x: 2178
-        y: 838
-        width: 145
-        height: 325
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 2179
+        y: 839
+        width: 142
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -663,12 +663,12 @@ TextureImporter:
       name: characterViking_20
       rect:
         serializedVersion: 2
-        x: 2808
-        y: 838
-        width: 135
-        height: 325
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 2809
+        y: 839
+        width: 132
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -685,12 +685,12 @@ TextureImporter:
       name: characterViking_21
       rect:
         serializedVersion: 2
-        x: 3418
-        y: 838
-        width: 195
-        height: 315
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 3419
+        y: 839
+        width: 192
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -707,12 +707,12 @@ TextureImporter:
       name: characterViking_22
       rect:
         serializedVersion: 2
-        x: 248
-        y: 198
-        width: 145
-        height: 325
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 249
+        y: 199
+        width: 142
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -729,12 +729,12 @@ TextureImporter:
       name: characterViking_23
       rect:
         serializedVersion: 2
-        x: 898
-        y: 198
-        width: 125
-        height: 325
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 899
+        y: 199
+        width: 122
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -751,12 +751,12 @@ TextureImporter:
       name: characterViking_24
       rect:
         serializedVersion: 2
-        x: 1508
-        y: 198
-        width: 165
-        height: 315
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1509
+        y: 199
+        width: 162
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -773,12 +773,12 @@ TextureImporter:
       name: characterViking_25
       rect:
         serializedVersion: 2
-        x: 2158
-        y: 198
-        width: 145
-        height: 325
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 2159
+        y: 199
+        width: 142
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -795,12 +795,12 @@ TextureImporter:
       name: characterViking_26
       rect:
         serializedVersion: 2
-        x: 2818
-        y: 198
-        width: 135
-        height: 325
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 2819
+        y: 199
+        width: 132
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -817,12 +817,12 @@ TextureImporter:
       name: characterViking_27
       rect:
         serializedVersion: 2
-        x: 3428
-        y: 198
-        width: 195
-        height: 315
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 3429
+        y: 199
+        width: 192
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -839,7 +839,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 2fcf3cb807b1f0e4ba18ec509b15e68e
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 

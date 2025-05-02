@@ -1,5 +1,9 @@
+using System;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using System.Collections;
+using UnityEngine.UI;
+using TMPro;
 
 public class BtnMenu : MonoBehaviour
 {
@@ -17,6 +21,7 @@ public class BtnMenu : MonoBehaviour
 
     public void GoToMenu()
     {
+        Debug.Log("MOVE!!!");
         SceneManager.LoadScene("MainScene");
     }
 }
