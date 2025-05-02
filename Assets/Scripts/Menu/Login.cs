@@ -17,6 +17,8 @@ public class Controller : MonoBehaviour
     [SerializeField] GameObject EnterUser;
     [SerializeField] GameObject Pass;
     [SerializeField] GameObject User;
+    [SerializeField] GameObject Viking;
+    [SerializeField] GameObject Placeholder;
 
     public void Jugar()
     {
@@ -44,10 +46,11 @@ public class Controller : MonoBehaviour
         {
             StartCoroutine(revertFields());
             islogin = true;
+            Viking.SetActive(true);
+            Placeholder.SetActive(false);
         }
         else
         {
-            Debug.Log("No existe");
             StartCoroutine(Shake(botonLogin2));
         }
     }

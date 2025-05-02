@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: c4750ea8cf66f1d49aff950fe4510e64
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1199356930711487508
+    second: characterViking_0
+  - first:
+      213: 443406779224486175
+    second: characterViking_1
+  - first:
+      213: 2711570512179439844
+    second: characterViking_2
+  - first:
+      213: -8439333478752088258
+    second: characterViking_3
+  - first:
+      213: -7855304741202679962
+    second: characterViking_4
+  - first:
+      213: -1038241878290337505
+    second: characterViking_5
+  - first:
+      213: -9053739202135284165
+    second: characterViking_6
+  - first:
+      213: 6360063993652014487
+    second: characterViking_7
+  - first:
+      213: 9014197915503715054
+    second: characterViking_8
+  - first:
+      213: 7744775461300846779
+    second: characterViking_9
+  - first:
+      213: -4810215822644825972
+    second: characterViking_10
+  - first:
+      213: -8092406685977976240
+    second: characterViking_11
+  - first:
+      213: 7203939223270497855
+    second: characterViking_12
+  - first:
+      213: 7289961037363522429
+    second: characterViking_13
+  - first:
+      213: 3293908109203442380
+    second: characterViking_14
+  - first:
+      213: 8025179310527146275
+    second: characterViking_15
+  - first:
+      213: 1434844878138608346
+    second: characterViking_16
+  - first:
+      213: -3657677047529990327
+    second: characterViking_17
+  - first:
+      213: 4742789119267717941
+    second: characterViking_18
+  - first:
+      213: -7895703762484774550
+    second: characterViking_19
+  - first:
+      213: -7983074941068635070
+    second: characterViking_20
+  - first:
+      213: -1140117574735722844
+    second: characterViking_21
+  - first:
+      213: -1259473351970661388
+    second: characterViking_22
+  - first:
+      213: 893495275765057193
+    second: characterViking_23
+  - first:
+      213: 5899071327893186701
+    second: characterViking_24
+  - first:
+      213: -4093757618063695931
+    second: characterViking_25
+  - first:
+      213: 5315465097305202106
+    second: characterViking_26
+  - first:
+      213: -276920383790564017
+    second: characterViking_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: characterViking_0
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 4678
+        width: 145
+        height: 305
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41406f526c8f4a010800000000000000
+      internalID: 1199356930711487508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterViking_1
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 4038
+        width: 145
+        height: 315
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11fcaecd1c472600800000000000000
+      internalID: 443406779224486175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterViking_2
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 3398
+        width: 125
+        height: 325
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e821e9a30f61a520800000000000000
+      internalID: 2711570512179439844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterViking_3
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 2758
+        width: 125
+        height: 325
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f8be12ae671ea80800000000000000
+      internalID: -8439333478752088258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterViking_4
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 2108
+        width: 145
+        height: 305
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6672c2205f95cf290800000000000000
+      internalID: -7855304741202679962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterViking_5
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 2108
+        width: 155
+        height: 315
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11f195338c6791f0800000000000000
+      internalID: -1038241878290337505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterViking_6
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 2108
+        width: 155
+        height: 315
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36a2b71a28aa5280800000000000000
+      internalID: -9053739202135284165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterViking_7
+      rect:
+        serializedVersion: 2
+        x: 2178
+        y: 2108
+        width: 145
+        height: 305
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d6162518c734850800000000000000
+      internalID: 6360063993652014487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterViking_8
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 2108
+        width: 155
+        height: 315
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee26aa0be3dd81d70800000000000000
+      internalID: 9014197915503715054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterViking_9
+      rect:
+        serializedVersion: 2
+        x: 3438
+        y: 2108
+        width: 155
+        height: 315
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0cffb9f38fa7b60800000000000000
+      internalID: 7744775461300846779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterViking_10
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1468
+        width: 155
+        height: 315
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80ba46e13eae3db0800000000000000
+      internalID: -4810215822644825972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterViking_11
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1478
+        width: 175
+        height: 315
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05269489efef1bf80800000000000000
+      internalID: -8092406685977976240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterViking_12
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 1478
+        width: 175
+        height: 305
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e9a823e8889f360800000000000000
+      internalID: 7203939223270497855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterViking_13
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 1468
+        width: 155
+        height: 305
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7bad7a80f42b2560800000000000000
+      internalID: 7289961037363522429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterViking_14
+      rect:
+        serializedVersion: 2
+        x: 2788
+        y: 1478
+        width: 175
+        height: 305
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca89d339ff46bd20800000000000000
+      internalID: 3293908109203442380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterViking_15
+      rect:
+        serializedVersion: 2
+        x: 3438
+        y: 1478
+        width: 175
+        height: 305
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329e8ce401a2f5f60800000000000000
+      internalID: 8025179310527146275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterViking_16
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 838
+        width: 145
+        height: 325
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada8d3580d799e310800000000000000
+      internalID: 1434844878138608346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterViking_17
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 838
+        width: 125
+        height: 325
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94710eeba125d3dc0800000000000000
+      internalID: -3657677047529990327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterViking_18
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 838
+        width: 165
+        height: 315
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5334a8a5395c1d140800000000000000
+      internalID: 4742789119267717941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterViking_19
+      rect:
+        serializedVersion: 2
+        x: 2178
+        y: 838
+        width: 145
+        height: 325
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a693161e243dc6290800000000000000
+      internalID: -7895703762484774550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterViking_20
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 838
+        width: 135
+        height: 325
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244184223ab663190800000000000000
+      internalID: -7983074941068635070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterViking_21
+      rect:
+        serializedVersion: 2
+        x: 3418
+        y: 838
+        width: 195
+        height: 315
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a682bb3b1d7d20f0800000000000000
+      internalID: -1140117574735722844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterViking_22
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 198
+        width: 145
+        height: 325
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbd7bbc8a3758ee0800000000000000
+      internalID: -1259473351970661388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterViking_23
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 198
+        width: 125
+        height: 325
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a647782835566c00800000000000000
+      internalID: 893495275765057193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterViking_24
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 198
+        width: 165
+        height: 315
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88e3cb3e16bdd150800000000000000
+      internalID: 5899071327893186701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterViking_25
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 198
+        width: 145
+        height: 325
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf93c2d22d0037c0800000000000000
+      internalID: -4093757618063695931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterViking_26
+      rect:
+        serializedVersion: 2
+        x: 2818
+        y: 198
+        width: 135
+        height: 325
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd1ddce75354c940800000000000000
+      internalID: 5315465097305202106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: characterViking_27
+      rect:
+        serializedVersion: 2
+        x: 3428
+        y: 198
+        width: 195
+        height: 315
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d391dc06e282cf0800000000000000
+      internalID: -276920383790564017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2fcf3cb807b1f0e4ba18ec509b15e68e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      characterViking_0: 1199356930711487508
+      characterViking_1: 443406779224486175
+      characterViking_10: -4810215822644825972
+      characterViking_11: -8092406685977976240
+      characterViking_12: 7203939223270497855
+      characterViking_13: 7289961037363522429
+      characterViking_14: 3293908109203442380
+      characterViking_15: 8025179310527146275
+      characterViking_16: 1434844878138608346
+      characterViking_17: -3657677047529990327
+      characterViking_18: 4742789119267717941
+      characterViking_19: -7895703762484774550
+      characterViking_2: 2711570512179439844
+      characterViking_20: -7983074941068635070
+      characterViking_21: -1140117574735722844
+      characterViking_22: -1259473351970661388
+      characterViking_23: 893495275765057193
+      characterViking_24: 5899071327893186701
+      characterViking_25: -4093757618063695931
+      characterViking_26: 5315465097305202106
+      characterViking_27: -276920383790564017
+      characterViking_3: -8439333478752088258
+      characterViking_4: -7855304741202679962
+      characterViking_5: -1038241878290337505
+      characterViking_6: -9053739202135284165
+      characterViking_7: 6360063993652014487
+      characterViking_8: 9014197915503715054
+      characterViking_9: 7744775461300846779
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
