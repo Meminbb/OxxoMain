@@ -38,8 +38,6 @@ public class ChangeScene : MonoBehaviour
             isTrivia = true;
         } else if (collision.CompareTag("Charco")){
             isRitmo = true;
-        } else if (collision.CompareTag("Salida")){
-            SceneManager.LoadScene("Menu");
         }
         
     }
