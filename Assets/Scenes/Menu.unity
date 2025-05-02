@@ -3775,7 +3775,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 556369070894805944, guid: c419465caa2ef4c4481635e06d0fae2c, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -4.79
+      value: -2.54
       objectReference: {fileID: 0}
     - target: {fileID: 556369070894805944, guid: c419465caa2ef4c4481635e06d0fae2c, type: 3}
       propertyPath: m_LocalPosition.z
@@ -3812,6 +3812,10 @@ PrefabInstance:
     - target: {fileID: 6624055897204547787, guid: c419465caa2ef4c4481635e06d0fae2c, type: 3}
       propertyPath: m_Name
       value: Viking
+      objectReference: {fileID: 0}
+    - target: {fileID: 6624055897204547787, guid: c419465caa2ef4c4481635e06d0fae2c, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
