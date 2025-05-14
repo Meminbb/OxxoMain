@@ -8,6 +8,7 @@ TagManager:
   - Cajero
   - Charco
   - Salida
+  - Promos
   layers:
   - Default
   - TransparentFX
