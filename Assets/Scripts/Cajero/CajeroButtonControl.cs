@@ -4,7 +4,6 @@ using UnityEngine.SceneManagement;
 public class CajeroButtonControl : MonoBehaviour
 {
     public GameObject MoneyDrawer;
-    public GameObject Promos;
     public GameObject Afirmar;
     public GameObject Cambio;
     public GameObject Exit;
@@ -18,7 +17,6 @@ public class CajeroButtonControl : MonoBehaviour
     {
         moneyDrawerOriginalPos = MoneyDrawer.transform.localPosition;
         cambioOriginalPos = Cambio.transform.localPosition;
-        promosOriginalPos = Promos.transform.localPosition;
         afirmarOriginalPos = Afirmar.transform.localPosition;
     }
 
@@ -38,16 +36,8 @@ public class CajeroButtonControl : MonoBehaviour
         StartCoroutine(MoveToPosition(Afirmar, afirmarOriginalPos,1000f));
         StartCoroutine(MoveToPosition(MoneyDrawer, moneyDrawerOriginalPos,2000f));
         StartCoroutine(MoveToPosition(Cambio, cambioOriginalPos,1000f));
-        StartCoroutine(MoveToPosition(Promos, promosOriginalPos,2000f));
     }
 
-    public void MovePromos()
-    {
-        Exit.SetActive(true);
-
-        StartCoroutine(MoveToPosition(Afirmar, new Vector3(afirmarOriginalPos.x, -681f, promosOriginalPos.z),1000f));
-        StartCoroutine(MoveToPosition(Promos, new Vector3(0, promosOriginalPos.y, promosOriginalPos.z),2000f));
-    }
 
 
     private System.Collections.IEnumerator MoveToPosition(GameObject obj, Vector3 targetPos, float speed)

@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.EventSystems;
 
 public class Movement : MonoBehaviour
 {
@@ -7,6 +8,9 @@ public class Movement : MonoBehaviour
     private Vector2 movement;
     public Animator anim;
 
+    private float inputX = 0f;
+    private float inputY = 0f;
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -14,14 +18,9 @@ public class Movement : MonoBehaviour
 
     void Update()
     {
-        // Entrada del jugador
-        movement.x = Input.GetAxisRaw("Horizontal");
-        movement.y = Input.GetAxisRaw("Vertical");
+        movement = new Vector2(inputX, inputY).normalized;
 
-        // Normaliza para que no sea más rápido en diagonal
-        movement.Normalize();
-
-        // Actualiza parámetros del Animator
+        // Animaciones
         anim.SetFloat("InputX", movement.x);
         anim.SetFloat("InputY", movement.y);
 
@@ -39,7 +38,12 @@ public class Movement : MonoBehaviour
 
     void FixedUpdate()
     {
-        // Movimiento del personaje
         rb.MovePosition(rb.position + movement * moveSpeed * Time.fixedDeltaTime);
     }
+
+    // Estas funciones se llamarán desde los botones (con eventos PointerDown / PointerUp)
+    public void OnMoveUpDown(bool isPressed) => inputY = isPressed ? 1 : (inputY == 1 ? 0 : inputY);
+    public void OnMoveDownDown(bool isPressed) => inputY = isPressed ? -1 : (inputY == -1 ? 0 : inputY);
+    public void OnMoveLeftDown(bool isPressed) => inputX = isPressed ? -1 : (inputX == -1 ? 0 : inputX);
+    public void OnMoveRightDown(bool isPressed) => inputX = isPressed ? 1 : (inputX == 1 ? 0 : inputX);
 }
