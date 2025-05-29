@@ -81,8 +81,13 @@ public class CargarDesdeMain : MonoBehaviour
     {
         protected override bool ValidateCertificate(byte[] certificateData) => true;
     }
-        public void IrACajero()
+    public void IrACajero()
     {
         SceneManager.LoadScene("Cajero");
+    }
+    
+    public void ActualizarPromocion()
+    {
+        StartCoroutine(ObtenerDatosDesdeAPI());
     }
 }

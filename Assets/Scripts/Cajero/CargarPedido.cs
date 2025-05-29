@@ -1,3 +1,4 @@
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -81,11 +82,13 @@ public class CargarPedido : MonoBehaviour
 
         float extra = Random.Range(0.1f, 0.5f);
         dineroCliente = Mathf.Ceil(precioTotal * (1 + extra));
-        textoDineroCliente.text = "$" + dineroCliente.ToString("0.00");
+        int dineroEntero = Mathf.CeilToInt(dineroCliente);
+        dineroCliente = dineroEntero;
+        textoDineroCliente.text = "$" + dineroEntero.ToString();
 
         cambioEsperado = dineroCliente - precioTotal;
         cambioJugador = 0f;
-        textoCambioJugador.text = "$0.00";
+        textoCambioJugador.text = "$0";
 
         foreach (Transform child in contenedorPromociones)
             Destroy(child.gameObject);
@@ -244,15 +247,18 @@ public class CargarPedido : MonoBehaviour
         bool cambioCorrecto = Mathf.Abs(cambioJugador - cambioEsperado) < 0.01f;
         bool promoCorrecta = idPromocionSeleccionada == idPromocionCorrecta;
 
-        textoResultado.text = (cambioCorrecto ? "Cambio correcto\n\n" : "Cambio incorrecto\n\n") +
+        textoResultado.text = (cambioCorrecto ? "Cambio correcto\\n\\n" : "Cambio incorrecto\\n\\n") +
                               (promoCorrecta ? "Promoción correcta" : "Promoción incorrecta");
 
         pantallaResultado.SetActive(true);
         resultadoMostrado = true;
 
-        if (cambioCorrecto && promoCorrecta && audioVictoria != null)
+        if (cambioCorrecto && promoCorrecta)
         {
-            audioVictoria.Play();
+            if (audioVictoria != null)
+                audioVictoria.Play();
+
+            StartCoroutine(AgregarMonedasAJugador(1));
         }
         else if (audioDerrota != null)
         {
@@ -260,6 +266,23 @@ public class CargarPedido : MonoBehaviour
         }
 
         StartCoroutine(FadeOutMusica());
+    }
+
+    IEnumerator AgregarMonedasAJugador(int idUsuario)
+    {
+        string url = $"https://192.168.68.113:7275/api/GabrielMartinez/agregar-monedas/{idUsuario}";
+        UnityWebRequest request = UnityWebRequest.PostWwwForm(url, "");
+        request.certificateHandler = new ForceAcceptAll();
+        yield return request.SendWebRequest();
+
+        if (request.result != UnityWebRequest.Result.Success)
+        {
+            Debug.LogError("Error al agregar monedas: " + request.error);
+        }
+        else
+        {
+            Debug.Log("100 monedas agregadas correctamente.");
+        }
     }
 
     public void IrAMainScene()
