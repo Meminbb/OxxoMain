@@ -270,7 +270,7 @@ public class CargarPedido : MonoBehaviour
 
     IEnumerator AgregarMonedasAJugador(int idUsuario)
     {
-        string url = $"https://192.168.68.113:7275/api/GabrielMartinez/agregar-monedas/{idUsuario}";
+        string url = $"https://10.22.165.130:7275/api/GabrielMartinez/agregar-monedas/{idUsuario}";
         UnityWebRequest request = UnityWebRequest.PostWwwForm(url, "");
         request.certificateHandler = new ForceAcceptAll();
         yield return request.SendWebRequest();

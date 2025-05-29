@@ -6,7 +6,7 @@ using System.Collections;
 public class MostrarMonedas : MonoBehaviour
 {
     public TextMeshProUGUI textoMonedas;
-    private string apiUrl = "https://192.168.68.113:7275/api/GabrielMartinez/monedas/1"; 
+    private string apiUrl = "https://10.22.165.130:7275/api/GabrielMartinez/monedas/1"; 
 
     void Start()
     {

@@ -146,6 +146,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -360,7 +373,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      cajero 2_0: 7691068342860165960
+      cajero 2_1: 5847965680220329153
+      cajero 2_2: 5209508656477304858
+      cajero 2_3: -6054551386391574505
+      cajero 2_4: -2791924904654052883
+      cajero 2_5: 8137855805185905301
+      cajero 2_6: -5079956619870922479
+      cajero 2_7: -1115091963733371162
+      cajero 2_8: -5138978435587226841
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -150,7 +150,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: da23ff37685831742bda91f1376f488c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  apiURL: https://192.168.68.113:7275/api/GabrielMartinez/promo-random
+  apiURL: https://10.22.165.130:7275/api/GabrielMartinez/promo-random
   imagenProductoPromo: {fileID: 1030977838}
   imagenPromo: {fileID: 820514448}
   contenedorPromos: {fileID: 139123855}
