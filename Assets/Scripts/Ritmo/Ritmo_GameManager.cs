@@ -1,6 +1,10 @@
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
+using UnityEngine.Networking;
+using System.Collections;
+using System.Collections.Generic;
+using Newtonsoft.Json;
 
 public class Ritmo_GameManager : MonoBehaviour
 {
@@ -46,6 +50,11 @@ public class Ritmo_GameManager : MonoBehaviour
     public Sprite spriteAmarillo;
     public Sprite spriteRojo;
 
+    [Header("Tiempo Global")]
+    public float duracionMaxima = 60f;
+    private float tiempoRestante;
+    public Image barraTiempoGlobal; 
+
     void Start()
     {
         instance = this;
@@ -69,11 +78,27 @@ public class Ritmo_GameManager : MonoBehaviour
         if (botonMenu != null)
             botonMenu.onClick.AddListener(IrAlMenu);
 
+        tiempoRestante = duracionMaxima;
         ActualizarMedidor();
         StartGame();
     }
 
-    void Update() { }
+    void Update()
+    {
+        if (startPlaying && !gameOver)
+        {
+            tiempoRestante -= Time.deltaTime;
+
+            if (barraTiempoGlobal != null)
+                barraTiempoGlobal.fillAmount = tiempoRestante / duracionMaxima;
+
+            if (tiempoRestante <= 0)
+            {
+                tiempoRestante = 0;
+                GameOver();
+            }
+        }
+    }
 
     private void StartGame()
     {
@@ -144,6 +169,10 @@ public class Ritmo_GameManager : MonoBehaviour
 
     void GameOver()
     {
+        int idUsuario = PlayerPrefs.GetInt("idUsuario", -1);
+        StartCoroutine(SumarScoreAJugador(idUsuario, currentScore));
+        if (gameOver) return;
+
         theMusic.Stop();
         theBS.hasStarted = false;
         startPlaying = false;
@@ -163,31 +192,47 @@ public class Ritmo_GameManager : MonoBehaviour
         multiText.text = "Multiplier: x" + currentMultiplier;
     }
 
-    public void PresionarBoton(string columna)
-{
-    Ritmo_NoteObject[] notas = FindObjectsOfType<Ritmo_NoteObject>();
-    Ritmo_NoteObject mejorNota = null;
-    float mejorDistancia = float.MaxValue;
-
-    foreach (Ritmo_NoteObject nota in notas)
+    IEnumerator SumarScoreAJugador(int idUsuario, int puntos)
     {
-        if (nota.keyToPress.ToLower() == columna.ToLower() && nota.canBePressed && !nota.wasPressed)
+        string url = $"https://10.22.165.130:7275/api/GabrielMartinez/sumar-score/{idUsuario}?puntos={puntos}";
+        UnityWebRequest request = UnityWebRequest.PostWwwForm(url, "");
+        request.certificateHandler = new ForceAcceptAll();
+        yield return request.SendWebRequest();
+
+        if (request.result != UnityWebRequest.Result.Success)
         {
-            float distancia = Mathf.Abs(nota.transform.position.y);
-            if (distancia < mejorDistancia)
-            {
-                mejorDistancia = distancia;
-                mejorNota = nota;
-            }
+            Debug.LogError("Error al sumar score: " + request.error);
+        }
+        else
+        {
+            Debug.Log($"{puntos} puntos de score añadidos correctamente.");
         }
     }
 
-    if (mejorNota != null)
+    public void PresionarBoton(string columna)
     {
-        mejorNota.OnHit();
-    }
-}
+        Ritmo_NoteObject[] notas = FindObjectsOfType<Ritmo_NoteObject>();
+        Ritmo_NoteObject mejorNota = null;
+        float mejorDistancia = float.MaxValue;
 
+        foreach (Ritmo_NoteObject nota in notas)
+        {
+            if (nota.keyToPress.ToLower() == columna.ToLower() && nota.canBePressed && !nota.wasPressed)
+            {
+                float distancia = Mathf.Abs(nota.transform.position.y);
+                if (distancia < mejorDistancia)
+                {
+                    mejorDistancia = distancia;
+                    mejorNota = nota;
+                }
+            }
+        }
+
+        if (mejorNota != null)
+        {
+            mejorNota.OnHit();
+        }
+    }
 
     public void ReintentarNivel()
     {

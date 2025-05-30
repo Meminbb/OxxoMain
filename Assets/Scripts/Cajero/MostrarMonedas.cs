@@ -6,16 +6,28 @@ using System.Collections;
 public class MostrarMonedas : MonoBehaviour
 {
     public TextMeshProUGUI textoMonedas;
-    private string apiUrl = "https://10.22.165.130:7275/api/GabrielMartinez/monedas/1"; 
+    public TextMeshProUGUI usuario;
+    public TextMeshProUGUI score;
+    private string baseUrl = "https://10.22.165.130:7275/api/GabrielMartinez/monedas/"; 
 
     void Start()
     {
-        StartCoroutine(CargarMonedas());
+        int idUsuario = PlayerPrefs.GetInt("idUsuario", -1);
+
+        if (idUsuario != -1)
+        {
+            StartCoroutine(CargarMonedas(idUsuario));
+        }
+        else
+        {
+            textoMonedas.text = "Usuario no logueado";
+        }
     }
 
-    IEnumerator CargarMonedas()
+    IEnumerator CargarMonedas(int idUsuario)
     {
-        UnityWebRequest request = UnityWebRequest.Get(apiUrl);
+        string url = baseUrl + idUsuario;
+        UnityWebRequest request = UnityWebRequest.Get(url);
         request.certificateHandler = new ForceAcceptAll(); 
         yield return request.SendWebRequest();
 
@@ -29,6 +41,17 @@ public class MostrarMonedas : MonoBehaviour
             string json = request.downloadHandler.text;
             MonedasResponse response = JsonUtility.FromJson<MonedasResponse>(json);
             textoMonedas.text = response.monedas.ToString();
+            score.text = "Puntaje:" + response.score;
+            usuario.text =  response.usuario.ToString();
+        }
+    }
+
+    public void ActualizarMonedasDesdeOtroScript()
+    {
+        int idUsuario = PlayerPrefs.GetInt("idUsuario", -1);
+        if (idUsuario != -1)
+        {
+            StartCoroutine(CargarMonedas(idUsuario));
         }
     }
 
@@ -36,5 +59,13 @@ public class MostrarMonedas : MonoBehaviour
     public class MonedasResponse
     {
         public int monedas;
+        public int score;
+        public string usuario;
+    }
+
+    // Reutilizar el handler SSL si es necesario
+    private class ForceAcceptAll : CertificateHandler
+    {
+        protected override bool ValidateCertificate(byte[] certificateData) => true;
     }
 }

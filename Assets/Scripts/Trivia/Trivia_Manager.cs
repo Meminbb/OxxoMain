@@ -14,8 +14,8 @@ public class Trivia_Manager : MonoBehaviour
 
     public Trivia_Timer temporizador;
 
-    public AudioSource audioCorrecto;   // ← Nuevo
-    public AudioSource audioIncorrecto; // ← Nuevo
+    public AudioSource audioCorrecto;
+    public AudioSource audioIncorrecto;
 
     private List<Trivia_Respuestas> respuestasActuales;
     private bool juegoFinalizado = false;
@@ -27,7 +27,7 @@ public class Trivia_Manager : MonoBehaviour
 
     IEnumerator CargarPreguntaAleatoria()
     {
-        string JSONurl = "https://10.22.207.76:7172/Trivia/pregunta";
+        string JSONurl = "https://10.23.65.242:7172/Trivia/pregunta";
         UnityWebRequest web = UnityWebRequest.Get(JSONurl);
         web.certificateHandler = new Trivia_ForceAcceptAll();
         yield return web.SendWebRequest();
@@ -50,7 +50,7 @@ public class Trivia_Manager : MonoBehaviour
 
     IEnumerator CargarRespuestas(int idPregunta)
     {
-        string JSONurl = $"https://10.22.207.76:7172/Trivia/pregunta/{idPregunta}/respuestas";
+        string JSONurl = $"https://10.23.65.242:7172/Trivia/pregunta/{idPregunta}/respuestas";
         UnityWebRequest web = UnityWebRequest.Get(JSONurl);
         web.certificateHandler = new Trivia_ForceAcceptAll();
         yield return web.SendWebRequest();
@@ -81,6 +81,40 @@ public class Trivia_Manager : MonoBehaviour
         }
     }
 
+    IEnumerator AgregarMonedasAJugador(int idUsuario)
+    {
+        string url = $"https://10.22.165.130:7275/api/GabrielMartinez/agregar-monedas/{idUsuario}";
+        UnityWebRequest request = UnityWebRequest.PostWwwForm(url, "");
+        request.certificateHandler = new ForceAcceptAll();
+        yield return request.SendWebRequest();
+
+        if (request.result != UnityWebRequest.Result.Success)
+        {
+            Debug.LogError("Error al agregar monedas: " + request.error);
+        }
+        else
+        {
+            Debug.Log("100 monedas agregadas correctamente.");
+        }
+    }
+
+    IEnumerator SumarScoreAJugador(int idUsuario, int puntos)
+    {
+        string url = $"https://10.22.165.130:7275/api/GabrielMartinez/sumar-score/{idUsuario}?puntos={puntos}";
+        UnityWebRequest request = UnityWebRequest.PostWwwForm(url, "");
+        request.certificateHandler = new ForceAcceptAll();
+        yield return request.SendWebRequest();
+
+        if (request.result != UnityWebRequest.Result.Success)
+        {
+            Debug.LogError("Error al sumar score: " + request.error);
+        }
+        else
+        {
+            Debug.Log($"{puntos} puntos de score añadidos correctamente.");
+        }
+    }
+
     void VerificarRespuesta(int index)
     {
         if (juegoFinalizado) return;
@@ -98,21 +132,31 @@ public class Trivia_Manager : MonoBehaviour
                 {
                     Debug.Log("✅ Correcto");
                     btnImage.color = Color.green;
-                    textoResultado.text = "¡Enhorabuena! Respuesta correcta";
+                    textoResultado.text = "¡Enhorabuena! Respuesta correcta\n\n<color=green>+100 monedas</color>\n\n<color=blue>+30 puntos</color>";
 
                     int puntos = Mathf.RoundToInt(temporizador.ObtenerTiempoRestante() * 10f);
-                    textoPuntaje.text = $"Puntos: {puntos}";
+                    
 
-                    if (audioCorrecto != null) audioCorrecto.Play();  // ✅ Sonido correcto
+                    int idUsuario = PlayerPrefs.GetInt("idUsuario", -1);
+                    StartCoroutine(AgregarMonedasAJugador(idUsuario));
+                    StartCoroutine(SumarScoreAJugador(idUsuario, 30));
+
+                    // 🔁 Actualizar UI de monedas si está activa
+                    MostrarMonedas mostrar = FindAnyObjectByType<MostrarMonedas>();
+                    if (mostrar != null)
+                    {
+                        mostrar.ActualizarMonedasDesdeOtroScript();
+                    }
+
+                    if (audioCorrecto != null) audioCorrecto.Play();
                 }
                 else
                 {
                     Debug.Log("❌ Incorrecto");
                     btnImage.color = Color.red;
                     textoResultado.text = "Respuesta incorrecta. Siga leyendo el manual.";
-                    textoPuntaje.text = "Puntos: 0";
 
-                    if (audioIncorrecto != null) audioIncorrecto.Play();  // ✅ Sonido incorrecto
+                    if (audioIncorrecto != null) audioIncorrecto.Play();
                 }
             }
             else

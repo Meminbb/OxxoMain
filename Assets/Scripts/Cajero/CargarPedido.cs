@@ -9,11 +9,6 @@ using UnityEngine.SceneManagement;
 
 public class CargarPedido : MonoBehaviour
 {
-    public class ForceAcceptAll : CertificateHandler
-    {
-        protected override bool ValidateCertificate(byte[] certificateData) => true;
-    }
-
     [System.Serializable]
     public class ContenedorProducto
     {
@@ -37,6 +32,7 @@ public class CargarPedido : MonoBehaviour
     public TextMeshProUGUI textoResultado;
     public Image barraTiempo;
     public SpriteRenderer npcRenderer;
+
 
     private float precioTotal = 0f;
     private float dineroCliente = 0f;
@@ -141,6 +137,7 @@ public class CargarPedido : MonoBehaviour
     IEnumerator TemporizadorCuentaRegresiva()
     {
         float tiempoRestante = tiempoLimite;
+        int idUsuario = PlayerPrefs.GetInt("idUsuario", -1);
 
         while (tiempoRestante > 0 && !resultadoMostrado)
         {
@@ -212,6 +209,7 @@ public class CargarPedido : MonoBehaviour
 
         billetesSeleccionados[valor] = !billetesSeleccionados[valor];
         cambioJugador += billetesSeleccionados[valor] ? valor : -valor;
+        cambioJugador = Mathf.Max(0f, cambioJugador);
         textoCambioJugador.text = "$" + cambioJugador.ToString("0.00");
     }
 
@@ -242,6 +240,7 @@ public class CargarPedido : MonoBehaviour
 
     public void ConfirmarEntrega()
     {
+        int idUsuario = PlayerPrefs.GetInt("idUsuario", -1);
         if (resultadoMostrado) return;
 
         bool cambioCorrecto = Mathf.Abs(cambioJugador - cambioEsperado) < 0.01f;
@@ -255,10 +254,12 @@ public class CargarPedido : MonoBehaviour
 
         if (cambioCorrecto && promoCorrecta)
         {
+            textoResultado.text += "\n\n<color=green>+100 monedas</color> \\n <color=blue>+50 puntos</color>";
             if (audioVictoria != null)
                 audioVictoria.Play();
 
-            StartCoroutine(AgregarMonedasAJugador(1));
+            StartCoroutine(AgregarMonedasAJugador(idUsuario));
+            StartCoroutine(SumarScoreAJugador(idUsuario, 50));
         }
         else if (audioDerrota != null)
         {
@@ -284,6 +285,23 @@ public class CargarPedido : MonoBehaviour
             Debug.Log("100 monedas agregadas correctamente.");
         }
     }
+    IEnumerator SumarScoreAJugador(int idUsuario, int puntos)
+    {
+        string url = $"https://10.22.165.130:7275/api/GabrielMartinez/sumar-score/{idUsuario}?puntos={puntos}";
+        UnityWebRequest request = UnityWebRequest.PostWwwForm(url, "");
+        request.certificateHandler = new ForceAcceptAll();
+        yield return request.SendWebRequest();
+
+        if (request.result != UnityWebRequest.Result.Success)
+        {
+            Debug.LogError("Error al sumar score: " + request.error);
+        }
+        else
+        {
+            Debug.Log($"{puntos} puntos de score añadidos correctamente.");
+        }
+}
+
 
     public void IrAMainScene()
     {
