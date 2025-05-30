@@ -23,12 +23,15 @@ public class ChangeScene : MonoBehaviour
 
     void Start()
     {
-        promosOriginalPos = Promos.transform.localPosition;
+        if (Promos != null)
+            promosOriginalPos = Promos.transform.localPosition;
     }
 
     public void pushButton()
     {
-        Debug.Log("Pushed, isCajero: " + isCajero + ", isPromos: " + isPromos);
+        Debug.Log($"Pushed, isCajero: {isCajero}, isTrivia: {isTrivia}, isRitmo: {isRitmo}, isPromos: {isPromos}");
+
+        StopAllCoroutines();
 
         if (isCajero)
             SceneManager.LoadScene("Cajero");
@@ -37,25 +40,31 @@ public class ChangeScene : MonoBehaviour
         else if (isRitmo)
             SceneManager.LoadScene("RitmoScene");
         else if (isPromos)
-        {
             MovePromos();
-            Debug.Log("Se Activó Promos");
-        }
     }
 
     public void ResetPromosPosition()
     {
         StopAllCoroutines();
-        StartCoroutine(MoveToPosition(Promos, promosOriginalPos, moveSpeed, () =>
+
+        if (Promos != null)
         {
-            EventButton.SetActive(true);  // Mostrar botón cuando vuelve a su posición
-        }));
-        ResetButton.SetActive(false);
+            StartCoroutine(MoveToPosition(Promos, promosOriginalPos, moveSpeed, () =>
+            {
+                if (EventButton != null)
+                    EventButton.SetActive(true);
+            }));
+        }
+
+        if (ResetButton != null)
+            ResetButton.SetActive(false);
     }
 
     private void MovePromos()
     {
         StopAllCoroutines();
+
+        if (Promos == null) return;
 
         Vector3 targetPos = new Vector3(
             promosOriginalPos.x + targetXOffset,
@@ -64,14 +73,19 @@ public class ChangeScene : MonoBehaviour
         );
 
         Debug.Log("Moving Promos");
-        EventButton.SetActive(false);     // Oculta el botón mientras se mueven
+
+        if (EventButton != null)
+            EventButton.SetActive(false);
+
         StartCoroutine(MoveToPosition(Promos, targetPos, moveSpeed));
-        ResetButton.SetActive(true);
+
+        if (ResetButton != null)
+            ResetButton.SetActive(true);
     }
 
     private IEnumerator MoveToPosition(GameObject obj, Vector3 targetPos, float speed, System.Action onComplete = null)
     {
-        while (Vector3.Distance(obj.transform.localPosition, targetPos) > 0.1f)
+        while (obj != null && Vector3.Distance(obj.transform.localPosition, targetPos) > 0.1f)
         {
             obj.transform.localPosition = Vector3.MoveTowards(
                 obj.transform.localPosition,
@@ -81,7 +95,8 @@ public class ChangeScene : MonoBehaviour
             yield return null;
         }
 
-        obj.transform.localPosition = targetPos;
+        if (obj != null)
+            obj.transform.localPosition = targetPos;
 
         if (onComplete != null)
             onComplete.Invoke();
@@ -89,29 +104,49 @@ public class ChangeScene : MonoBehaviour
 
     void OnTriggerStay2D(Collider2D collision)
     {
-        // Solo mostrar EventButton si las promos están en su posición original
-        if (Promos.transform.localPosition == promosOriginalPos)
+        Debug.Log($"[OnTriggerStay2D] Tocando con: {collision.gameObject.name}, Tag: {collision.tag}");
+
+        if (Promos != null && Promos.transform.localPosition == promosOriginalPos && EventButton != null)
             EventButton.SetActive(true);
 
         if (collision.CompareTag("Cajero"))
+        {
             isCajero = true;
+            Debug.Log("Entró al cajero (isCajero = true)");
+        }
+
         if (collision.CompareTag("Npc"))
+        {
             isTrivia = true;
+            Debug.Log("Entró a zona de trivia (isTrivia = true)");
+        }
+
         if (collision.CompareTag("Charco"))
+        {
             isRitmo = true;
+            Debug.Log("Entró a zona de ritmo (isRitmo = true)");
+        }
+
         if (collision.CompareTag("Promos"))
         {
             isPromos = true;
-            Debug.Log("Player entered Promos trigger");
+            Debug.Log("Entró a zona de promos (isPromos = true)");
         }
     }
 
     void OnTriggerExit2D(Collider2D collision)
     {
-        EventButton.SetActive(false);
+        if (EventButton != null)
+            EventButton.SetActive(false);
+
         isCajero = false;
         isTrivia = false;
         isRitmo = false;
         isPromos = false;
+    }
+
+    void OnDestroy()
+    {
+        StopAllCoroutines();
     }
 }

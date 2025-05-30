@@ -9,6 +9,7 @@ TagManager:
   - Charco
   - Salida
   - Promos
+  - Activator
   layers:
   - Default
   - TransparentFX
@@ -45,6 +46,9 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Notas
+    uniqueID: 2578437529
     locked: 0
   m_RenderingLayers:
   - Default

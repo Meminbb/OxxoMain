@@ -10,6 +10,9 @@ GameObject:
   m_Component:
   - component: {fileID: 3094752748992375383}
   - component: {fileID: 7406044417441917220}
+  - component: {fileID: 740821806317308028}
+  - component: {fileID: -9070636830690067870}
+  - component: {fileID: -1387987203411097328}
   m_Layer: 0
   m_Name: Barril1
   m_TagString: Untagged
@@ -73,8 +76,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -1716529767
+  m_SortingLayer: 1
   m_SortingOrder: 10
   m_Sprite: {fileID: 448271978, guid: c2518f3d43859894aae3a5ef726041bb, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -87,3 +90,85 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &740821806317308028
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8231866791409272281}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a57697d121d9d2d4e819d4e6972154e4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  wasPressed: 0
+  keyToPress: Up Arrow
+  canBePressed: 0
+  hitEffect: {fileID: 7958698989600744301, guid: 5d97b3b1eb1a1254b91b4b514c9ee314, type: 3}
+  goodEffect: {fileID: 1595949081665229543, guid: a6dec76700a260d4cb3db21082fe2aa8, type: 3}
+  perfectEffect: {fileID: 3842817046220231840, guid: 437828ca98dcc3148bff1721d669133d, type: 3}
+  missedEffect: {fileID: 2865683906606745427, guid: c7bbdd26a9b2f1041834e754b56ef6f2, type: 3}
+--- !u!58 &-9070636830690067870
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8231866791409272281}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_Radius: 0.12999998
+--- !u!50 &-1387987203411097328
+Rigidbody2D:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8231866791409272281}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
