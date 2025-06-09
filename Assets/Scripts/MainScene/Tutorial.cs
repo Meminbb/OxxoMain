@@ -3,9 +3,9 @@ using UnityEngine.UI;
 
 public class Tutorial : MonoBehaviour
 {
-    public Sprite[] tutorialSprites;   // Tus sprites (4 en total)
-    public GameObject tutorialPanel;   // El panel que contiene la imagen y botones
-    public Image displayImage;         // El componente Image que mostrará los sprites
+    public Sprite[] tutorialSprites; 
+    public GameObject tutorialPanel; 
+    public Image displayImage;
 
     private int currentIndex = 0;
     private bool isOpen = false;
@@ -22,8 +22,13 @@ public class Tutorial : MonoBehaviour
 
         if (isOpen)
         {
+            Time.timeScale = 0f;
             currentIndex = 0;
             UpdateImage();
+        }else
+        {
+            Time.timeScale = 1f;
+
         }
     }
 

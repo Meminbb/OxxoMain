@@ -15,7 +15,7 @@ public class LoginManager : MonoBehaviour
     public GameObject mensajeErrorObject;
     private CanvasGroup canvasGroupError;
 
-    private const string loginURL = "https://192.168.1.78:5001/api/GabrielMartinez/login";
+    private const string loginURL = "https://10.22.221.26:5001/api/GabrielMartinez/login";
 
     void Start()
     {
