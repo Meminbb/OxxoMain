@@ -15,8 +15,8 @@ public class MoverMenu : MonoBehaviour
         if (menu != null)
         {
 
-            menu.transform.position = new Vector3(menu.transform.position.x, 833f, menu.transform.position.z);
-            fondo.transform.position = new Vector3(menu.transform.position.x, 833f, menu.transform.position.z);
+            menu.transform.position = new Vector3(menu.transform.position.x, 0f, menu.transform.position.z);
+            fondo.transform.position = new Vector3(menu.transform.position.x, 0f, menu.transform.position.z);
             Time.timeScale = 0f;
 
             Debug.Log(menu.transform.position);

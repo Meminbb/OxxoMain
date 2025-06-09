@@ -8,7 +8,7 @@ using Newtonsoft.Json;
 
 public class CargarDesdeMain : MonoBehaviour
 {
-    public string apiURL = "https://10.22.165.130:7275/api/GabrielMartinez/promo-random";
+    public string apiURL = "https://10.22.221.26:5001/api/GabrielMartinez/promo-random";
 
     public Image imagenProductoPromo;
     public Image imagenPromo;

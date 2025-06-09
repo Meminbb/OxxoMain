@@ -21,7 +21,7 @@ public class ActivadorAleatorio : MonoBehaviour
 
     IEnumerator QuitarMonedas(int idUsuario)
     {
-        string url = $"https://10.22.165.130:7275/api/GabrielMartinez/quitar-monedas/{idUsuario}";
+        string url = $"https://10.22.221.26:5001/api/GabrielMartinez/quitar-monedas/{idUsuario}";
         UnityWebRequest request = UnityWebRequest.PostWwwForm(url, "");
         request.certificateHandler = new ForceAcceptAll();
         yield return request.SendWebRequest();

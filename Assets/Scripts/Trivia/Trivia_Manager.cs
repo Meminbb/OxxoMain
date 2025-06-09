@@ -27,7 +27,7 @@ public class Trivia_Manager : MonoBehaviour
 
     IEnumerator CargarPreguntaAleatoria()
     {
-        string JSONurl = "https://10.23.65.242:7172/Trivia/pregunta";
+        string JSONurl = "https://10.22.221.26:5001/api/GabrielMartinez/pregunta";
         UnityWebRequest web = UnityWebRequest.Get(JSONurl);
         web.certificateHandler = new Trivia_ForceAcceptAll();
         yield return web.SendWebRequest();
@@ -50,7 +50,7 @@ public class Trivia_Manager : MonoBehaviour
 
     IEnumerator CargarRespuestas(int idPregunta)
     {
-        string JSONurl = $"https://10.23.65.242:7172/Trivia/pregunta/{idPregunta}/respuestas";
+        string JSONurl = $"https://10.22.221.26:5001/api/GabrielMartinez/pregunta/{idPregunta}/respuestas";
         UnityWebRequest web = UnityWebRequest.Get(JSONurl);
         web.certificateHandler = new Trivia_ForceAcceptAll();
         yield return web.SendWebRequest();
@@ -83,7 +83,7 @@ public class Trivia_Manager : MonoBehaviour
 
     IEnumerator AgregarMonedasAJugador(int idUsuario)
     {
-        string url = $"https://10.22.165.130:7275/api/GabrielMartinez/agregar-monedas/{idUsuario}";
+        string url = $"https://10.22.221.26:5001/api/GabrielMartinez/agregar-monedas/{idUsuario}";
         UnityWebRequest request = UnityWebRequest.PostWwwForm(url, "");
         request.certificateHandler = new ForceAcceptAll();
         yield return request.SendWebRequest();
@@ -100,7 +100,7 @@ public class Trivia_Manager : MonoBehaviour
 
     IEnumerator SumarScoreAJugador(int idUsuario, int puntos)
     {
-        string url = $"https://10.22.165.130:7275/api/GabrielMartinez/sumar-score/{idUsuario}?puntos={puntos}";
+        string url = $"https://10.22.221.26:5001/api/GabrielMartinez/sumar-score/{idUsuario}?puntos={puntos}";
         UnityWebRequest request = UnityWebRequest.PostWwwForm(url, "");
         request.certificateHandler = new ForceAcceptAll();
         yield return request.SendWebRequest();

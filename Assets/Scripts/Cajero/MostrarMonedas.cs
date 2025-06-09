@@ -8,7 +8,7 @@ public class MostrarMonedas : MonoBehaviour
     public TextMeshProUGUI textoMonedas;
     public TextMeshProUGUI usuario;
     public TextMeshProUGUI score;
-    private string baseUrl = "https://192.168.1.78:5001/api/GabrielMartinez/monedas/"; 
+    private string baseUrl = "https://10.22.221.26:5001/api/GabrielMartinez/monedas/"; 
 
     void Start()
     {
@@ -63,7 +63,6 @@ public class MostrarMonedas : MonoBehaviour
         public string usuario;
     }
 
-    // Reutilizar el handler SSL si es necesario
     private class ForceAcceptAll : CertificateHandler
     {
         protected override bool ValidateCertificate(byte[] certificateData) => true;

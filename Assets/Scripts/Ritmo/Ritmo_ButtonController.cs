@@ -1,7 +1,6 @@
 using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
-using UnityEditor.U2D;
 public class Ritmo_ButtonController : MonoBehaviour
 {
     private SpriteRenderer theSR;
