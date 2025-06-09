@@ -17,8 +17,6 @@ public class Controller : MonoBehaviour
     [SerializeField] GameObject EnterUser;
     [SerializeField] GameObject Pass;
     [SerializeField] GameObject User;
-    [SerializeField] GameObject Viking;
-    [SerializeField] GameObject Placeholder;
 
     public void Jugar()
     {
@@ -37,24 +35,6 @@ public class Controller : MonoBehaviour
         StartCoroutine(changeFields());
     }
 
-    public void Login2()
-    {
-        string username = EnterUser.GetComponent<TMP_InputField>().text;
-        string password = EnterPass.GetComponent<TMP_InputField>().text;
-
-        if (username == "Meminbb" && password == "Jugar")
-        {
-            StartCoroutine(revertFields());
-            islogin = true;
-            Viking.SetActive(true);
-            Placeholder.SetActive(false);
-        }
-        else
-        {
-            StartCoroutine(Shake(botonLogin2));
-        }
-    }
-
     IEnumerator changeFields()
     {
         botonLogin.GetComponent<ScaleObject>().StartScaleTo(0f);
@@ -66,18 +46,7 @@ public class Controller : MonoBehaviour
         botonLogin2.GetComponent<ScaleObject>().StartScaleTo(1f);
     }
 
-    IEnumerator revertFields()
-    {
-        User.GetComponent<ScaleObject>().StartScaleTo(0f);
-        Pass.GetComponent<ScaleObject>().StartScaleTo(0f);
-        EnterPass.GetComponent<ScaleObject>().StartScaleTo(0f);
-        EnterUser.GetComponent<ScaleObject>().StartScaleTo(0f);
-        botonLogin2.GetComponent<ScaleObject>().StartScaleTo(0f);
-        yield return new WaitForSeconds(1);
-        botonJugar.GetComponent<ScaleObject>().StartScaleTo(1f);
-    }
-
-    IEnumerator Shake(GameObject obj, float duration = 0.3f, float magnitude = 10f)
+    public IEnumerator Shake(GameObject obj, float duration = 0.3f, float magnitude = 10f)
     {
         RectTransform rt = obj.GetComponent<RectTransform>();
         Vector3 originalPos = rt.anchoredPosition;

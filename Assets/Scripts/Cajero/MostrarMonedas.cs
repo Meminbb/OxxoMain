@@ -8,7 +8,7 @@ public class MostrarMonedas : MonoBehaviour
     public TextMeshProUGUI textoMonedas;
     public TextMeshProUGUI usuario;
     public TextMeshProUGUI score;
-    private string baseUrl = "https://10.22.165.130:7275/api/GabrielMartinez/monedas/"; 
+    private string baseUrl = "https://192.168.1.78:5001/api/GabrielMartinez/monedas/"; 
 
     void Start()
     {
